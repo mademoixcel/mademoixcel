@@ -27,7 +27,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a> <img src="https://cdn-images-1.medium.com/max/1000/1*9UZGvkfDFTCQU-PTcg6AJw.png" alt="dataanalysis" width="300" height="200"/> </a> </p>
+<p align="left"> <a> <img src="https://cdn-images-1.medium.com/max/1000/1*9UZGvkfDFTCQU-PTcg6AJw.png" alt="dataanalysis" width="300" height="100"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mademoixcel&show_icons=true&locale=en&layout=compact" alt="mademoixcel" /></p>
 
