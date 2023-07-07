@@ -3,7 +3,6 @@
 <h3 align="center">A passionate Data Analyst</h3>
 <img align = "right" alt="coding" width="400" src = "https://user-images.githubusercontent.com/67431758/228056875-1a89863f-e326-4117-a8f3-bc65651620c5.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mademoixcel&label=Profile%20views&color=0e75b6&style=flat" alt="mademoixcel" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
