@@ -11,15 +11,15 @@
 
 - 🌱 I’m currently learning **Python.**
 
-- 👯 I’m looking to collaborate with **small / large scale organizations to make sense of their data.**
+- 👯 I’m looking to collaborate with **small or large-scale organizations to make sense of their data.**
 
-- 🤝 I’m looking for help with **entry level / Junior Data Analyst roles.**
+- 🤝 I’m looking for help with **Entry-Level or Junior Data Analyst roles.**
 
-- 💬 Ask me about **Microsoft Excel, SQL, Power BI, Business decisions and recommendations.**
+- 💬 Ask me about **Microsoft Excel, SQL, Power BI, Business decisions, and recommendations.**
 
-- 📫 How to reach me : **zehidathabit@gmail, https://www.linkedin.com/in/zehida-thabit-86583a228/.com**
+- 📫 How to reach me: **zehidathabit@gmail, https://www.linkedin.com/in/zehida-thabit-86583a228/.com**
 
-- ⚡ Fun fact : **I like British Shorthair cats.**
+- ⚡ Fun fact: **I like British Shorthair cats.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,7 +27,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a> <img src="https://cdn-images-1.medium.com/max/1000/1*9UZGvkfDFTCQU-PTcg6AJw.png" alt="dataanalysis" width="702" height="350"/> </a> </p>
+<p align="left"> <a> <img src="https://cdn-images-1.medium.com/max/1000/1*9UZGvkfDFTCQU-PTcg6AJw.png" alt="dataanalysis" width="500" height="300"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mademoixcel&show_icons=true&locale=en&layout=compact" alt="mademoixcel" /></p>
 
