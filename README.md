@@ -29,5 +29,3 @@
 <p align="left"> <a> <img src="https://cdn-images-1.medium.com/max/1000/1*9UZGvkfDFTCQU-PTcg6AJw.png" alt="dataanalysis" width="400" height="170"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mademoixcel&show_icons=true&locale=en&layout=compact" alt="mademoixcel" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mademoixcel&show_icons=true&locale=en" alt="mademoixcel" /></p>
